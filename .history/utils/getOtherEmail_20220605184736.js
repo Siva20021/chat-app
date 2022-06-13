@@ -1,0 +1,1 @@
+const getOtherEmail=()=>(users,currentUser)
